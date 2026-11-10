@@ -30,7 +30,7 @@ function render(){
  const body=items.map((it,side)=>{
   const ai=side===x.aiSide;
   const inner=k==='pix'?`<div class="frame"><img src="${it.file}" width="${it.w}" height="${it.h}" alt="Pixel art ${L[side]}, ${it.w} by ${it.h} pixels" data-w="${it.w}" data-h="${it.h}" draggable="false"></div>`:`<div class="txt">${esc(it.text)}</div>`;
-  return `<button type="button" class="pick ${ai?'isai':'isreal'}" data-side="${side}" aria-label="Choose ${L[side]} as the AI one"><span class="lab"><span>${L[side]}</span><span>${k==='pix'?`${it.w}×${it.h}`:`${it.words} words`}</span></span>${inner}<span class="tag">${ai?'AI':'Real'}</span></button>`}).join('');
+  return `<button type="button" class="pick ${ai?'isai':'isreal'}" data-side="${side}" aria-label="Choose ${L[side]} as the AI one"><span class="lab"><span>${L[side]}</span><span>${k==="pix"?`${it.w}×${it.h}`:""}</span></span>${inner}<span class="tag">${ai?'AI':'Real'}</span></button>`}).join('');
  app.innerHTML=`<div class="top"><span class="qn">${KIND[k].name} · Q${S.i+1}/10</span><span><span class="chip ${q.diff}">${q.diff}</span> <span class="chip">Score ${S.score}</span></span></div>${bar()}
  <h2 class="ask">Which one is <em>AI</em>?</h2><div class="pair" id="pair">${body}</div><div id="fb"></div><p class="keyhint">Tap a ${k==='pix'?'picture':'passage'} to answer. Keys: A, B, then Enter.</p>`;
  app.querySelectorAll('.pick').forEach(b=>b.onclick=()=>answer(+b.dataset.side));
