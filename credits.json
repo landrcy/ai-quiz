@@ -1,0 +1,216 @@
+{
+ "pixel_art_real": [
+  {
+   "question": 1,
+   "file": "img/q1_real.png",
+   "piece": "Cemetery sky background",
+   "work": "GothicVania Cemetery Pack",
+   "artist": "Luis Zuno (ansimuz)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
+   "native_size": [
+    384,
+    224
+   ],
+   "colors": 13
+  },
+  {
+   "question": 2,
+   "file": "img/q2_real.png",
+   "piece": "Hazy hills battle background",
+   "work": "Battle Background - Hazy Hills",
+   "artist": "Luis Zuno (ansimuz)",
+   "license": "CC-BY 3.0",
+   "source_url": "https://opengameart.org/content/battle-background-hazy-hills-0",
+   "native_size": [
+    320,
+    208
+   ],
+   "colors": 18
+  },
+  {
+   "question": 3,
+   "file": "img/q3_real.png",
+   "piece": "Town house",
+   "work": "GothicVania Town",
+   "artist": "Luis Zuno (ansimuz)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/gothicvania-town",
+   "native_size": [
+    207,
+    244
+   ],
+   "colors": 10
+  },
+  {
+   "question": 4,
+   "file": "img/q4_real.png",
+   "piece": "Dead tree",
+   "work": "GothicVania Cemetery Pack",
+   "artist": "Luis Zuno (ansimuz)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
+   "native_size": [
+    176,
+    170
+   ],
+   "colors": 7
+  },
+  {
+   "question": 5,
+   "file": "img/q5_real.png",
+   "piece": "Reaper statue",
+   "work": "GothicVania Cemetery Pack",
+   "artist": "Luis Zuno (ansimuz)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
+   "native_size": [
+    63,
+    75
+   ],
+   "colors": 6
+  },
+  {
+   "question": 6,
+   "file": "img/q6_real.png",
+   "piece": "Hell gato",
+   "work": "GothicVania Cemetery Pack",
+   "artist": "Luis Zuno (ansimuz)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
+   "native_size": [
+    58,
+    35
+   ],
+   "colors": 9
+  },
+  {
+   "question": 7,
+   "file": "img/q7_real.png",
+   "piece": "Ghost",
+   "work": "GothicVania Cemetery Pack",
+   "artist": "Luis Zuno (ansimuz)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
+   "native_size": [
+    27,
+    46
+   ],
+   "colors": 10
+  },
+  {
+   "question": 8,
+   "file": "img/q8_real.png",
+   "piece": "Clothed skeleton",
+   "work": "GothicVania Cemetery Pack",
+   "artist": "Luis Zuno (ansimuz)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
+   "native_size": [
+    32,
+    40
+   ],
+   "colors": 7
+  },
+  {
+   "question": 9,
+   "file": "img/q9_real.png",
+   "piece": "Death knight",
+   "work": "Dungeon Crawl 32x32 tiles",
+   "artist": "Dungeon Crawl Stone Soup tile artists (collected on OpenGameArt by MedicineStorm)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/dungeon-crawl-32x32-tiles",
+   "native_size": [
+    26,
+    32
+   ],
+   "colors": 106
+  },
+  {
+   "question": 10,
+   "file": "img/q10_real.png",
+   "piece": "Grey rat",
+   "work": "Dungeon Crawl 32x32 tiles",
+   "artist": "Dungeon Crawl Stone Soup tile artists (collected on OpenGameArt by MedicineStorm)",
+   "license": "CC0 (public domain)",
+   "source_url": "https://opengameart.org/content/dungeon-crawl-32x32-tiles",
+   "native_size": [
+    21,
+    14
+   ],
+   "colors": 12
+  }
+ ],
+ "writing_real": [
+  {
+   "question": 1,
+   "author": "Herman Melville",
+   "work": "Moby-Dick; or, The Whale",
+   "source_url": "https://www.gutenberg.org/ebooks/2701",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 2,
+   "author": "Jack London",
+   "work": "The Call of the Wild",
+   "source_url": "https://www.gutenberg.org/ebooks/215",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 3,
+   "author": "Charlotte Brontë",
+   "work": "Jane Eyre",
+   "source_url": "https://www.gutenberg.org/ebooks/1260",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 4,
+   "author": "Robert Louis Stevenson",
+   "work": "Treasure Island",
+   "source_url": "https://www.gutenberg.org/ebooks/120",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 5,
+   "author": "Joseph Conrad",
+   "work": "Heart of Darkness",
+   "source_url": "https://www.gutenberg.org/ebooks/219",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 6,
+   "author": "Emily Brontë",
+   "work": "Wuthering Heights",
+   "source_url": "https://www.gutenberg.org/ebooks/768",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 7,
+   "author": "Arthur Conan Doyle",
+   "work": "The Hound of the Baskervilles",
+   "source_url": "https://www.gutenberg.org/ebooks/2852",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 8,
+   "author": "Jane Austen",
+   "work": "Pride and Prejudice",
+   "source_url": "https://www.gutenberg.org/ebooks/1342",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 9,
+   "author": "Arthur Conan Doyle",
+   "work": "A Scandal in Bohemia (The Adventures of Sherlock Holmes)",
+   "source_url": "https://www.gutenberg.org/ebooks/1661",
+   "license": "Public domain (Project Gutenberg)"
+  },
+  {
+   "question": 10,
+   "author": "Charles Dickens",
+   "work": "Great Expectations",
+   "source_url": "https://www.gutenberg.org/ebooks/1400",
+   "license": "Public domain (Project Gutenberg)"
+  }
+ ]
+}
