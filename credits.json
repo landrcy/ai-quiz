@@ -1,147 +1,408 @@
 {
- "pixel_art_real": [
+ "pixel": [
   {
-   "question": 1,
-   "file": "img/q1_real.png",
-   "piece": "Cemetery sky background",
-   "work": "GothicVania Cemetery Pack",
-   "artist": "Luis Zuno (ansimuz)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
-   "native_size": [
-    384,
-    224
-   ],
-   "colors": 13
-  },
-  {
-   "question": 2,
-   "file": "img/q2_real.png",
-   "piece": "Hazy hills battle background",
-   "work": "Battle Background - Hazy Hills",
-   "artist": "Luis Zuno (ansimuz)",
+   "q": 1,
+   "genre": "Sky background",
+   "desc": "Sky and clouds background",
+   "artist": "PauR",
+   "work": "Sky background",
    "license": "CC-BY 3.0",
-   "source_url": "https://opengameart.org/content/battle-background-hazy-hills-0",
-   "native_size": [
-    320,
-    208
-   ],
-   "colors": 18
+   "url": "https://opengameart.org/content/sky-background",
+   "w": 320,
+   "h": 256,
+   "colors": 39
   },
   {
-   "question": 3,
-   "file": "img/q3_real.png",
-   "piece": "Town house",
-   "work": "GothicVania Town",
-   "artist": "Luis Zuno (ansimuz)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/gothicvania-town",
-   "native_size": [
-    207,
-    244
-   ],
+   "q": 2,
+   "genre": "Beast sprite",
+   "desc": "Fenrir wolf",
+   "artist": "leeor_net",
+   "work": "Fenrir Wolf (Pixel) Sprite",
+   "license": "CC-BY-SA 3.0",
+   "url": "https://opengameart.org/content/fenrir-wolf-pixel-sprite",
+   "w": 238,
+   "h": 155,
+   "colors": 17
+  },
+  {
+   "q": 3,
+   "genre": "Boss monster",
+   "desc": "Wailing Prince boss monster",
+   "artist": "Joseph Seraph (JosephSeraph)",
+   "work": "JS Monster Pack 4 - \"Ascent\"",
+   "license": "CC-BY 3.0",
+   "url": "https://opengameart.org/content/js-monster-pack-4-ascent",
+   "w": 128,
+   "h": 128,
+   "colors": 24
+  },
+  {
+   "q": 4,
+   "genre": "Hero sprite",
+   "desc": "Militia warrior",
+   "artist": "One Man Army",
+   "work": "Milita Warrior [36x36]",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/milita-warrior-36x36",
+   "w": 18,
+   "h": 32,
+   "colors": 28
+  },
+  {
+   "q": 4,
+   "genre": "Hero sprite",
+   "desc": "Armored knight with shield",
+   "artist": "Master484",
+   "work": "Knight of Finlandia",
+   "license": "CC-BY 3.0",
+   "url": "https://opengameart.org/content/knight-of-finlandia",
+   "w": 36,
+   "h": 47,
    "colors": 10
   },
   {
-   "question": 4,
-   "file": "img/q4_real.png",
-   "piece": "Dead tree",
-   "work": "GothicVania Cemetery Pack",
-   "artist": "Luis Zuno (ansimuz)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
-   "native_size": [
-    176,
-    170
-   ],
-   "colors": 7
+   "q": 5,
+   "genre": "Spaceship",
+   "desc": "Side-view spaceship",
+   "artist": "skizzles280",
+   "work": "SpaceShip",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/spaceship-11",
+   "w": 69,
+   "h": 32,
+   "colors": 16
   },
   {
-   "question": 5,
-   "file": "img/q5_real.png",
-   "piece": "Reaper statue",
-   "work": "GothicVania Cemetery Pack",
-   "artist": "Luis Zuno (ansimuz)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
-   "native_size": [
-    63,
-    75
-   ],
-   "colors": 6
-  },
-  {
-   "question": 6,
-   "file": "img/q6_real.png",
-   "piece": "Hell gato",
-   "work": "GothicVania Cemetery Pack",
-   "artist": "Luis Zuno (ansimuz)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
-   "native_size": [
-    58,
-    35
-   ],
+   "q": 5,
+   "genre": "Spaceship",
+   "desc": "Top-down fighter ship",
+   "artist": "scofanogd",
+   "work": "spaceship",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/spaceship-9",
+   "w": 45,
+   "h": 31,
    "colors": 9
   },
   {
-   "question": 7,
-   "file": "img/q7_real.png",
-   "piece": "Ghost",
-   "work": "GothicVania Cemetery Pack",
-   "artist": "Luis Zuno (ansimuz)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
-   "native_size": [
-    27,
-    46
-   ],
+   "q": 6,
+   "genre": "Small monster",
+   "desc": "Salamander monster",
+   "artist": "Joseph Seraph (JosephSeraph)",
+   "work": "JS Monster Pack 4 - \"Ascent\"",
+   "license": "CC-BY 3.0",
+   "url": "https://opengameart.org/content/js-monster-pack-4-ascent",
+   "w": 96,
+   "h": 64,
+   "colors": 13
+  },
+  {
+   "q": 6,
+   "genre": "Small monster",
+   "desc": "Eyeball cluster boss",
+   "artist": "skoam",
+   "work": "Eyeball Boss",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/eyeball-boss",
+   "w": 63,
+   "h": 63,
+   "colors": 26
+  },
+  {
+   "q": 7,
+   "genre": "Face portrait",
+   "desc": "Bearded dwarf portrait",
+   "artist": "CobraLad (Bakal Vitaliy)",
+   "work": "32x32 Fantasy portrait set",
+   "license": "CC-BY 3.0",
+   "url": "https://opengameart.org/content/32x32-fantasy-portrait-set",
+   "w": 32,
+   "h": 32,
+   "colors": 18
+  },
+  {
+   "q": 7,
+   "genre": "Face portrait",
+   "desc": "Hooded woman portrait",
+   "artist": "CobraLad (Bakal Vitaliy)",
+   "work": "32x32 Fantasy portrait set",
+   "license": "CC-BY 3.0",
+   "url": "https://opengameart.org/content/32x32-fantasy-portrait-set",
+   "w": 32,
+   "h": 32,
+   "colors": 15
+  },
+  {
+   "q": 7,
+   "genre": "Face portrait",
+   "desc": "White-haired old man portrait",
+   "artist": "CobraLad (Bakal Vitaliy)",
+   "work": "32x32 Fantasy portrait set",
+   "license": "CC-BY 3.0",
+   "url": "https://opengameart.org/content/32x32-fantasy-portrait-set",
+   "w": 32,
+   "h": 32,
+   "colors": 11
+  },
+  {
+   "q": 8,
+   "genre": "Weapon icon",
+   "desc": "Sword icon",
+   "artist": "Curtis Merry",
+   "work": "32 Weapon Icons",
+   "license": "CC-BY 3.0",
+   "url": "https://opengameart.org/content/32-weapon-icons",
+   "w": 32,
+   "h": 32,
+   "colors": 16
+  },
+  {
+   "q": 8,
+   "genre": "Weapon icon",
+   "desc": "War hammer icon",
+   "artist": "Gerald Burke",
+   "work": "Pixel Weapon Sheet",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/pixel-weapon-sheet",
+   "w": 24,
+   "h": 24,
    "colors": 10
   },
   {
-   "question": 8,
-   "file": "img/q8_real.png",
-   "piece": "Clothed skeleton",
-   "work": "GothicVania Cemetery Pack",
-   "artist": "Luis Zuno (ansimuz)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/gothicvania-cemetery-pack",
-   "native_size": [
-    32,
-    40
-   ],
+   "q": 8,
+   "genre": "Weapon icon",
+   "desc": "Flail icon",
+   "artist": "Dungeon Crawl Stone Soup tile artists",
+   "work": "Dungeon Crawl 32x32 tiles",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/dungeon-crawl-32x32-tiles",
+   "w": 30,
+   "h": 27,
+   "colors": 32
+  },
+  {
+   "q": 9,
+   "genre": "Food icon",
+   "desc": "Hot dog icon",
+   "artist": "thekingphoenix",
+   "work": "Icons: Food.",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/icons-food",
+   "w": 22,
+   "h": 24,
    "colors": 7
   },
   {
-   "question": 9,
-   "file": "img/q9_real.png",
-   "piece": "Death knight",
-   "work": "Dungeon Crawl 32x32 tiles",
-   "artist": "Dungeon Crawl Stone Soup tile artists (collected on OpenGameArt by MedicineStorm)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/dungeon-crawl-32x32-tiles",
-   "native_size": [
-    26,
-    32
-   ],
-   "colors": 106
+   "q": 9,
+   "genre": "Food icon",
+   "desc": "Beer mug icon",
+   "artist": "thekingphoenix",
+   "work": "Icons: Food.",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/icons-food",
+   "w": 27,
+   "h": 27,
+   "colors": 6
   },
   {
-   "question": 10,
-   "file": "img/q10_real.png",
-   "piece": "Grey rat",
-   "work": "Dungeon Crawl 32x32 tiles",
-   "artist": "Dungeon Crawl Stone Soup tile artists (collected on OpenGameArt by MedicineStorm)",
-   "license": "CC0 (public domain)",
-   "source_url": "https://opengameart.org/content/dungeon-crawl-32x32-tiles",
-   "native_size": [
-    21,
-    14
-   ],
-   "colors": 12
+   "q": 9,
+   "genre": "Food icon",
+   "desc": "Carrot icon",
+   "artist": "thekingphoenix",
+   "work": "Icons: Food.",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/icons-food",
+   "w": 15,
+   "h": 29,
+   "colors": 7
+  },
+  {
+   "q": 10,
+   "genre": "Potion icon",
+   "desc": "Round cyan potion",
+   "artist": "Shade",
+   "work": "16x16 Assorted RPG Icons",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/16x16-assorted-rpg-icons",
+   "w": 14,
+   "h": 16,
+   "colors": 19
+  },
+  {
+   "q": 10,
+   "genre": "Potion icon",
+   "desc": "Blue square potion",
+   "artist": "Shade",
+   "work": "16x16 Assorted RPG Icons",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/16x16-assorted-rpg-icons",
+   "w": 14,
+   "h": 16,
+   "colors": 19
+  },
+  {
+   "q": 10,
+   "genre": "Potion icon",
+   "desc": "Red vial",
+   "artist": "Shade",
+   "work": "16x16 Assorted RPG Icons",
+   "license": "CC0",
+   "url": "https://opengameart.org/content/16x16-assorted-rpg-icons",
+   "w": 8,
+   "h": 14,
+   "colors": 16
   }
  ],
- "writing_real": [
+ "poems": [
+  {
+   "q": 1,
+   "title": "The Grass",
+   "author": "Dickinson",
+   "work": "Poems by Emily Dickinson, Three Series, Complete",
+   "url": "https://www.gutenberg.org/ebooks/12242"
+  },
+  {
+   "q": 2,
+   "title": "A Red, Red Rose",
+   "author": "Burns",
+   "work": "Poems and Songs of Robert Burns",
+   "url": "https://www.gutenberg.org/ebooks/1279"
+  },
+  {
+   "q": 3,
+   "title": "To an Athlete Dying Young",
+   "author": "Housman",
+   "work": "A Shropshire Lad",
+   "url": "https://www.gutenberg.org/ebooks/5720"
+  },
+  {
+   "q": 4,
+   "title": "The Darkling Thrush",
+   "author": "Hardy",
+   "work": "Poems of the Past and the Present",
+   "url": "https://www.gutenberg.org/ebooks/3168"
+  },
+  {
+   "q": 4,
+   "title": "Break, Break, Break",
+   "author": "Tennyson",
+   "work": "The Early Poems of Alfred Lord Tennyson",
+   "url": "https://www.gutenberg.org/ebooks/8601"
+  },
+  {
+   "q": 5,
+   "title": "Sonnet 18",
+   "author": "Shakespeare",
+   "work": "Shakespeare's Sonnets",
+   "url": "https://www.gutenberg.org/ebooks/1041"
+  },
+  {
+   "q": 5,
+   "title": "Sonnet 116",
+   "author": "Shakespeare",
+   "work": "Shakespeare's Sonnets",
+   "url": "https://www.gutenberg.org/ebooks/1041"
+  },
+  {
+   "q": 6,
+   "title": "The Tyger",
+   "author": "Blake",
+   "work": "Songs of Innocence and of Experience",
+   "url": "https://www.gutenberg.org/ebooks/1934"
+  },
+  {
+   "q": 6,
+   "title": "The Sick Rose",
+   "author": "Blake",
+   "work": "Songs of Innocence and of Experience",
+   "url": "https://www.gutenberg.org/ebooks/1934"
+  },
+  {
+   "q": 7,
+   "title": "Hope is the thing with feathers",
+   "author": "Dickinson",
+   "work": "Poems by Emily Dickinson, Three Series, Complete",
+   "url": "https://www.gutenberg.org/ebooks/12242"
+  },
+  {
+   "q": 7,
+   "title": "I'm Nobody! Who are you?",
+   "author": "Dickinson",
+   "work": "Poems by Emily Dickinson, Three Series, Complete",
+   "url": "https://www.gutenberg.org/ebooks/12242"
+  },
+  {
+   "q": 7,
+   "title": "There is no Frigate like a Book",
+   "author": "Dickinson",
+   "work": "Poems by Emily Dickinson, Three Series, Complete",
+   "url": "https://www.gutenberg.org/ebooks/12242"
+  },
+  {
+   "q": 8,
+   "title": "Birches",
+   "author": "Frost",
+   "work": "Mountain Interval",
+   "url": "https://www.gutenberg.org/ebooks/29345"
+  },
+  {
+   "q": 8,
+   "title": "Mending Wall",
+   "author": "Frost",
+   "work": "North of Boston",
+   "url": "https://www.gutenberg.org/ebooks/3026"
+  },
+  {
+   "q": 8,
+   "title": "The Wood-Pile",
+   "author": "Frost",
+   "work": "North of Boston",
+   "url": "https://www.gutenberg.org/ebooks/3026"
+  },
+  {
+   "q": 9,
+   "title": "Mariana",
+   "author": "Tennyson",
+   "work": "The Early Poems of Alfred Lord Tennyson",
+   "url": "https://www.gutenberg.org/ebooks/8601"
+  },
+  {
+   "q": 9,
+   "title": "Neutral Tones",
+   "author": "Hardy",
+   "work": "Wessex Poems and Other Verses",
+   "url": "https://www.gutenberg.org/ebooks/3167"
+  },
+  {
+   "q": 9,
+   "title": "Lines Written in Early Spring",
+   "author": "Wordsworth",
+   "work": "Lyrical Ballads, With a Few Other Poems (1798)",
+   "url": "https://www.gutenberg.org/ebooks/9622"
+  },
+  {
+   "q": 10,
+   "title": "When I Heard the Learn'd Astronomer",
+   "author": "Whitman",
+   "work": "Leaves of Grass",
+   "url": "https://www.gutenberg.org/ebooks/1322"
+  },
+  {
+   "q": 10,
+   "title": "A Noiseless Patient Spider",
+   "author": "Whitman",
+   "work": "Leaves of Grass",
+   "url": "https://www.gutenberg.org/ebooks/1322"
+  },
+  {
+   "q": 10,
+   "title": "I Hear America Singing",
+   "author": "Whitman",
+   "work": "Leaves of Grass",
+   "url": "https://www.gutenberg.org/ebooks/1322"
+  }
+ ],
+ "writing": [
   {
    "question": 1,
    "author": "Herman Melville",
